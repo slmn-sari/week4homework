@@ -7,7 +7,7 @@
  * @param {string} Kullanim
  * @param {number} modelyili
  */
-const cars = [
+const computer = [
     { id: 1, marka: 'Asus', model: 'AAA1000', renk: 'Siyah', Kullanim: 'Notebook' , modelyili: 2020 },
     { id: 2, marka: 'Lenova', model: 'CCC1000', renk: 'gri', Kullanim: 'Notebook' , modelyili: 2018  },
     { id: 3, marka: 'Fujitsu', model: 'DDD1000', renk: 'siyah', Kullanim: 'Desktop' , modelyili: 2014  },
@@ -17,6 +17,7 @@ const cars = [
 ];
 
 module.exports = computer;
+
 
 
 
